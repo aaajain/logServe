@@ -1,0 +1,9 @@
+{
+  "name": "rjhs-log-serve",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+	"express": "^4.15.3",
+	"serve-index":"1.9.1"
+  }
+}
